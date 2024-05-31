@@ -98,8 +98,9 @@
 - [CloudCheckr](https://www.cloudcheckr.com/) - Cloud management platform for cost, security, and compliance. Tags: cost_visibility, multi_cloud
 - [CloudHealth](https://cloudhealth.vmware.com/) - Cloud cost visibility and automated optimizations. Tags: cost_visibility, multi_cloud
 - [CloudPouch](https://cloudpouch.dev/) - A unique desktop application that works with any AWS account, uses AWS CLI proviles. Cloud cost visibility and optimizations. Tags: cost_visibility, automated_optimization, AWS, EBS
-- [CloudThread](https://www.cloudthread.io/) - Cloud cost tracking and waste identification. Tags: cost_visibility, multi_cloud (part of [Finout] since April 2nd 2024 (https://www.finout.io/blog/cloudthread_finou) 
+- [CloudThread](https://www.cloudthread.io/) - Cloud cost tracking and waste identification, part of FinOut since April 2nd 2024 ([announcement](https://www.finout.io/blog/cloudthread_finout)). Tags: cost_visibility, multi_cloud 
 - [CloudZero](https://www.cloudzero.com/) - Cloud cost intelligence platform. Tags: cost_visibility, multi_cloud
+- [DigiUsher](https://www.digiusher.com/) - Cloud cost visibility platform. Tags: cost_visibility, multi_cloud, Kubernetes, EKS, AWS, GCP, Azure
 - [Densify](https://www.densify.com/) - Automated rightsizing for Kubernetes and Compute Instances. Tags: cost_visibility, automated_optimization, Kubernetes, EKS, EC2
 - [EBS Optimizer](https://leanercloud.com/ebs-optimizer) - Commercial version of EBS Optimizer Community Edition. Tags: automated_optimization, AWS, EBS
 - [Finout](https://www.finout.io/) - FinOps all-in-one solution. Tags: Virtual Tagging, costs optimization, comprehensive cost governance suite, AWS, GCP, Azure, Kubernetes, AI/ML
