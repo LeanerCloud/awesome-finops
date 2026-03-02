@@ -82,12 +82,15 @@
 
 - [AutoSpotting Community Edition](https://github.com/LeanerCloud/AutoSpotting) - Converts ASGs to Spot with automated failover to on-demand and no configuration changes. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS, Spot
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for cloud policy definition and enforcement. Tags: cost_visibility, automated_optimization, multi_cloud
+- [Cloud FinOps Skill](https://github.com/OptimNow/cloud-finops-skills) - Model-agnostic FinOps knowledge skill that gives AI agents accurate expertise on billing, pricing, and optimisation across AWS, Azure, GCP, and AI platforms. Tags: cost_visibility, multi_cloud, AI/ML
 - [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Information about AWS infrastructure, like EC2 and RDS instance types. Tags: cost_visibility, AWS, EC2, RDS
 - [EBS Optimizer Community Edition](https://github.com/LeanerCloud/EBS-Optimizer) - Converts AWS EBS volumes to GP3 without configuration changes. Tags: automated_optimization, AWS, EBS
+- [FinOps Tag Compliance MCP](https://github.com/OptimNow/finops-tag-compliance-mcp) - Multi-cloud tag governance MCP server with schema validation, cost attribution gap analysis, and automated bulk tagging. Tags: cost_visibility, tagging, multi_cloud, governance
 - [InfraCost](https://github.com/infracost/infracost) - Displays cost of Terraform code changes. Tags: cost_visibility, Terraform
 - [Karpenter](https://karpenter.sh) - Just-in-time capacity provisioner for Kubernetes. Tags: automated_optimization, Kubernetes, AWS, Spot, EKS
 - [OptScale](https://github.com/hystax/optscale) - FinOps and cloud cost optimization with ML/AI developer tools. Tags: cost_visibility, multi_cloud, ML
 - [Savings Estimator](https://github.com/LeanerCloud/savings-estimator) - GUI for estimating Spot savings in ASGs. Tags: cost_visibility, AWS, Spot
+- [Tagging Policy Generator](https://tagpolgenerator.optimnow.io/) - Web app to generate and export tagging policies for AWS, Azure, and GCP. Tags: tagging, multi_cloud, governance
 
 ### Commercial Tools
 
