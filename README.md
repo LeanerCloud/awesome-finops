@@ -109,6 +109,7 @@
 - [KubeCost](https://kubecost.com) - Rightsizing recommendations for Kubernetes. Tags: cost_visibility, multi_cloud, Kubernetes, EKS, rightsizing
 - [MemVerge](https://memverge.com/) - Optimizes cost and performance for data-intensive workloads. Tags: automated_optimization, Spot, rightsizing
 - [nOps](https://nops.io) - Comprehensive AWS FinOps platform. Tags: automated_optimization, AWS, Spot, Kubernetes, EBS, RDS, RIs
+- [NudgeBee](https://github.com/nudgebee/nudgebee) - Self-hosted multi-cloud cost optimization with Kubernetes rightsizing, idle resource detection, and spend anomaly detection. Tags: automated_optimization, multi_cloud, AWS, Azure, GCP, Kubernetes, EKS, rightsizing, anomaly_detection
 - [Pepperdata](https://www.pepperdata.com/) - Real-time, automated cost optimization for Amazon EMR and Amazon EKS. Tags: automated_optimization, EKS, EMR, Kubernetes, multi_cloud
 - [PerfectScale](https://perfectscale.io/) - Automated K8s Optimization and Governance. Tags: automated_optimization, Kubernetes, rightsizing, EKS, AKS, GCP, multi_cloud, cloud_agnostic
 - [ProsperOps](https://www.prosperops.com/) - Automates RI and savings plans purchasing. Tags: automated_optimization, AWS, RIs
