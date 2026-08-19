@@ -121,7 +121,7 @@
 - [Vantage](https://vantage.sh) - Multi-cloud cost visibility with automated RI purchasing. Tags: cost_visibility, automated_optimization, RIs, multi_cloud
 - [Xosphere](https://xosphere.io) - Commercial version of AutoSpotting Community Edition with some enhancements. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS
 - [Zesty](https://zesty.io) - Automates RI purchasing and EBS optimization. Tags: automated_optimization, AWS, RIs, EBS
-- [ZopNight](https://zopnight.com/) - Multi-cloud FinOps autopilot for AWS, GCP, Azure. Native advisors catch 14% of waste; ZopNight catches the other 86%. Tags: cost_visibility, automated_optimization, multi_cloud, AWS, GCP, Azure
+- [Zopnight](https://zop.dev/zopnight?utm_source=leanercloud-awesome-finops&utm_medium=listing&utm_campaign=mcp-directory) - Multi-cloud cost and infrastructure governance with resource scheduling and idle-resource detection. Tags: cost_visibility, automated_optimization, multi_cloud, AWS, GCP, Azure
 
 ## Service providers
 
