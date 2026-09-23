@@ -98,6 +98,7 @@
 - [CloudCheckr](https://www.cloudcheckr.com/) - Cloud management platform for cost, security, and compliance. Tags: cost_visibility, multi_cloud
 - [CloudHealth](https://cloudhealth.vmware.com/) - Cloud cost visibility and automated optimizations. Tags: cost_visibility, multi_cloud
 - [CloudPouch](https://cloudpouch.dev/) - A unique desktop application that works with any AWS account, uses AWS CLI proviles. Cloud cost visibility and optimizations. Tags: cost_visibility, automated_optimization, AWS, EBS
+- [CloudQuell](https://www.cloudquell.com/) - Flat-fee cost visibility for AWS, Azure, GCP, Snowflake, OpenAI and Anthropic, with anomaly alerts, budgets and savings recommendations; includes a free cloud and LLM pricing explorer. Tags: cost_visibility, recommendations, multi_cloud, AWS, Azure, GCP, AI/ML
 - [CloudThread](https://www.cloudthread.io/) - Cloud cost tracking and waste identification, part of FinOut since April 2nd 2024 ([announcement](https://www.finout.io/blog/cloudthread_finout)). Tags: cost_visibility, multi_cloud
 - [CloudZero](https://www.cloudzero.com/) - Cloud cost intelligence platform. Tags: cost_visibility, multi_cloud
 - [DigiUsher](https://www.digiusher.com/) - Cloud cost visibility platform. Tags: cost_visibility, multi_cloud, Kubernetes, EKS, AWS, GCP, Azure
