@@ -81,6 +81,7 @@
 ### Open Source Tools
 
 - [AutoSpotting Community Edition](https://github.com/LeanerCloud/AutoSpotting) - Converts ASGs to Spot with automated failover to on-demand and no configuration changes. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS, Spot
+- [CloudBurn](https://github.com/towardsthecloud/cloudburn) - Checks AWS cost policies in Terraform, CloudFormation, and live accounts. Tags: cost_visibility, recommendations, AWS, Terraform, CloudFormation.
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for cloud policy definition and enforcement. Tags: cost_visibility, automated_optimization, multi_cloud
 - [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Information about AWS infrastructure, like EC2 and RDS instance types. Tags: cost_visibility, AWS, EC2, RDS
 - [EBS Optimizer Community Edition](https://github.com/LeanerCloud/EBS-Optimizer) - Converts AWS EBS volumes to GP3 without configuration changes. Tags: automated_optimization, AWS, EBS
