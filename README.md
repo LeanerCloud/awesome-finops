@@ -86,6 +86,7 @@
 - [EBS Optimizer Community Edition](https://github.com/LeanerCloud/EBS-Optimizer) - Converts AWS EBS volumes to GP3 without configuration changes. Tags: automated_optimization, AWS, EBS
 - [InfraCost](https://github.com/infracost/infracost) - Displays cost of Terraform code changes. Tags: cost_visibility, Terraform
 - [Karpenter](https://karpenter.sh) - Just-in-time capacity provisioner for Kubernetes. Tags: automated_optimization, Kubernetes, AWS, Spot, EKS
+- [Lantern Works](https://thelanternworks.com/?ref=readme-finops) - Cited, dated GPU cloud rental prices across about 29 tracked vendors, with a CC BY 4.0 price history and an open-source MCP server for comparing rates and estimating job costs. Tags: cost_visibility, GPU, multi_cloud, ML
 - [OptScale](https://github.com/hystax/optscale) - FinOps and cloud cost optimization with ML/AI developer tools. Tags: cost_visibility, multi_cloud, ML
 - [Savings Estimator](https://github.com/LeanerCloud/savings-estimator) - GUI for estimating Spot savings in ASGs. Tags: cost_visibility, AWS, Spot
 
