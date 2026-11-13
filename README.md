@@ -80,6 +80,7 @@
 
 ### Open Source Tools
 
+- [Auditaz CLI](https://github.com/auditaz/auditaz-cli) - Read-only local collector that snapshots AWS resource data using your own credentials; the rule engine and pricing run in the Auditaz backend. Tags: cost_visibility, AWS
 - [AutoSpotting Community Edition](https://github.com/LeanerCloud/AutoSpotting) - Converts ASGs to Spot with automated failover to on-demand and no configuration changes. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS, Spot
 - [Cloud Custodian](https://cloudcustodian.io/) - Stateless rules engine for cloud policy definition and enforcement. Tags: cost_visibility, automated_optimization, multi_cloud
 - [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Information about AWS infrastructure, like EC2 and RDS instance types. Tags: cost_visibility, AWS, EC2, RDS
