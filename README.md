@@ -96,6 +96,7 @@
 - [AutoSpotting](https://autospotting.io) - Commercial version of AutoSpotting Community Edition with some enhancements. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS
 - [BlueArch](https://www.bluearch.io/) - Automated tagging and cost optimization recommendations. Tags: cost_visibility, recommendations
 - [Cast.ai](https://cast.ai) - Automated cost optimization for Kubernetes. Tags: automated_optimization, multi_cloud, Kubernetes, EKS, Spot
+- [CIOQuest LLM Cost Calculator](https://cioquest.com/llm-cost-calculator) - Free browser calculator for monthly LLM API spend from requests, tokens, caching and retries, with provider list prices and their sources. Tags: cost_visibility, AI/ML
 - [Cloudability](https://www.cloudability.com/) - Cloud cost management and visibility. Tags: cost_visibility, multi_cloud
 - [CloudCheckr](https://www.cloudcheckr.com/) - Cloud management platform for cost, security, and compliance. Tags: cost_visibility, multi_cloud
 - [CloudHealth](https://cloudhealth.vmware.com/) - Cloud cost visibility and automated optimizations. Tags: cost_visibility, multi_cloud
