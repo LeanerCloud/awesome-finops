@@ -98,6 +98,7 @@
 - [Cast.ai](https://cast.ai) - Automated cost optimization for Kubernetes. Tags: automated_optimization, multi_cloud, Kubernetes, EKS, Spot
 - [Cloudability](https://www.cloudability.com/) - Cloud cost management and visibility. Tags: cost_visibility, multi_cloud
 - [CloudCheckr](https://www.cloudcheckr.com/) - Cloud management platform for cost, security, and compliance. Tags: cost_visibility, multi_cloud
+- [CloudFix](https://cloudfix.com/agent/) - Offers five free, read-only AWS assessment skills, including an S3 Intelligent-Tiering cost estimate. Tags: recommendations, AWS, S3, EBS
 - [CloudHealth](https://cloudhealth.vmware.com/) - Cloud cost visibility and automated optimizations. Tags: cost_visibility, multi_cloud
 - [CloudPouch](https://cloudpouch.dev/) - A unique desktop application that works with any AWS account, uses AWS CLI proviles. Cloud cost visibility and optimizations. Tags: cost_visibility, automated_optimization, AWS, EBS
 - [CloudThread](https://www.cloudthread.io/) - Cloud cost tracking and waste identification, part of FinOut since April 2nd 2024 ([announcement](https://www.finout.io/blog/cloudthread_finout)). Tags: cost_visibility, multi_cloud
