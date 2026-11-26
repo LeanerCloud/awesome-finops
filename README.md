@@ -87,7 +87,7 @@
 - [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Information about AWS infrastructure, like EC2 and RDS instance types. Tags: cost_visibility, AWS, EC2, RDS
 - [EBS Optimizer Community Edition](https://github.com/LeanerCloud/EBS-Optimizer) - Converts AWS EBS volumes to GP3 without configuration changes. Tags: automated_optimization, AWS, EBS
 - [InfraCost](https://github.com/infracost/infracost) - Displays cost of Terraform code changes. Tags: cost_visibility, Terraform
-- [InfraGuard FinOps & Security](https://github.com/arthepitech/infraguard-finops-action) - GitHub Action that estimates Terraform monthly cost drifts and audits Docker/IaC security in Pull Requests. Tags: cost_visibility, Terraform, multi_cloud, AWS, GCP
+- [InfraGuard FinOps & Security](https://github.com/arthepitech/infraguard-finops-action) - GitHub Action that audits Docker and Docker Compose configurations for security and best practices in Pull Requests (with Terraform AWS cost estimation and secret leak detection in Pro). Tags: cost_visibility, Terraform, AWS
 - [Karpenter](https://karpenter.sh) - Just-in-time capacity provisioner for Kubernetes. Tags: automated_optimization, Kubernetes, AWS, Spot, EKS
 - [OptScale](https://github.com/hystax/optscale) - FinOps and cloud cost optimization with ML/AI developer tools. Tags: cost_visibility, multi_cloud, ML
 - [Savings Estimator](https://github.com/LeanerCloud/savings-estimator) - GUI for estimating Spot savings in ASGs. Tags: cost_visibility, AWS, Spot
@@ -109,7 +109,7 @@
 - [Finout](https://www.finout.io/) - FinOps all-in-one solution. Tags: Virtual Tagging, costs optimization, comprehensive cost governance suite, AWS, GCP, Azure, Kubernetes, AI/ML
 - [Hystax](https://hystax.com/) - FinOps and MLOps platform. Tags: cost_visibility, recommendations, ML, multi_cloud
 - [InfraCost](https://www.infracost.io/) - Commercial version of Infracost. Tags: cost_visibility, Terraform, multi_cloud
-- [InfraGuard FinOps & Security](https://github.com/marketplace/actions/infraguard-finops-security) - Pro tier GitHub Action with Terraform cost drift estimation, secret leak detection, and CI policy enforcement. Tags: cost_visibility, Terraform, multi_cloud, AWS, GCP
+- [InfraGuard FinOps & Security](https://github.com/marketplace/actions/infraguard-finops-security) - Pro tier GitHub Action with monthly AWS cost estimates for flagged Terraform resources, secret leak detection, and CI policy enforcement. Tags: cost_visibility, Terraform, AWS
 - [KubeCost](https://kubecost.com) - Rightsizing recommendations for Kubernetes. Tags: cost_visibility, multi_cloud, Kubernetes, EKS, rightsizing
 - [MemVerge](https://memverge.com/) - Optimizes cost and performance for data-intensive workloads. Tags: automated_optimization, Spot, rightsizing
 - [nOps](https://nops.io) - Comprehensive AWS FinOps platform. Tags: automated_optimization, AWS, Spot, Kubernetes, EBS, RDS, RIs
