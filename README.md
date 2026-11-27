@@ -96,6 +96,7 @@
 - [AutoSpotting](https://autospotting.io) - Commercial version of AutoSpotting Community Edition with some enhancements. Tags: automated_optimization, AWS, ASG, Kubernetes, EKS, ECS
 - [BlueArch](https://www.bluearch.io/) - Automated tagging and cost optimization recommendations. Tags: cost_visibility, recommendations
 - [Cast.ai](https://cast.ai) - Automated cost optimization for Kubernetes. Tags: automated_optimization, multi_cloud, Kubernetes, EKS, Spot
+- [Cloud Cost Math](https://cloudcostmath.com/cloud-storage-cost-control/) - Free browser-based storage lifecycle scenarios accounting for retrieval and minimum-retention costs. Tags: cost_visibility, multi_cloud, AWS, Azure, GCP, storage
 - [Cloudability](https://www.cloudability.com/) - Cloud cost management and visibility. Tags: cost_visibility, multi_cloud
 - [CloudCheckr](https://www.cloudcheckr.com/) - Cloud management platform for cost, security, and compliance. Tags: cost_visibility, multi_cloud
 - [CloudHealth](https://cloudhealth.vmware.com/) - Cloud cost visibility and automated optimizations. Tags: cost_visibility, multi_cloud
